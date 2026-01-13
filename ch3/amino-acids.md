@@ -7,9 +7,9 @@ A: $pI \approx {(pKa_1 + pKa_2) \over 2}$
 Q: What are the ionization states of an amino acid?
 A: Ionization States:
 
-At low pH: both groups protonated (+H₃N-CHR-COOH)
-Near pI: zwitterion (+H₃N-CHR-COO⁻)
-At high pH: both groups deprotonated (H₂N-CHR-COO⁻)
+- At low pH: both groups protonated (+H₃N-CHR-COOH)
+- Near pI: zwitterion (+H₃N-CHR-COO⁻)
+- At high pH: both groups deprotonated (H₂N-CHR-COO⁻)
 
 Q: How are amino acids chained?
 A: Two amino acids residues are condensed with a peptide bond (covalent)

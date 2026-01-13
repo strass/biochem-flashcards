@@ -2,9 +2,9 @@ C: [The Henderson-Hasselbalch Equation] is [$pH = pK_a + log({[A⁻] \over [HA]}
 
 ---
 
-C:
-When pH [<] pKa: [protonated] form predominates
-When pH [>] pKa: [deprotonated] form predominates
+C: When pH [<] pKa: [protonated] form predominates
+
+C: When pH [>] pKa: [deprotonated] form predominates
 
 ---
 

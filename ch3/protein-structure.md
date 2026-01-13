@@ -21,18 +21,21 @@ Q: What is the geometric arrangement of a peptide bond?
 A: The peptide bond has a rigid, planar geometry due to partial double-bond character.
 The C-N bond in the peptide linkage exhibits resonance between:
 
-Single bond form: C-N (with C=O)
-Double bond form: C=N (with C-O⁻)
+- Single bond form: C-N (with C=O)
+- Double bond form: C=N (with C-O⁻)
 
 This creates approximately 40% double-bond character, which restricts rotation around the C-N bond.
 
 While the peptide bond itself is rigid, the polypeptide backbone can still fold because rotation IS allowed around:
 
-φ (phi): rotation around N-Cα bond
-ψ (psi): rotation around Cα-C bond
+φ (phi): rotation around N-Cα bond <br />
+ψ (psi): rotation around Cα-C bond <br />
 Although many φ (phi) and ψ (psi) values are prohibited by steric interference.
 
 These torsion angles determine the protein's secondary structure (α-helix, β-sheet, etc.).
+
+Q: What determines a protein's secondary structure?
+A: Torsion angles between φ and ψ form (α-helix, β-sheet, etc.).
 
 Q: What are some common secondary structures in protein?
 A: $\alpha$ helix, $\beta$ sheets, $\beta$ turns, random coils
@@ -53,6 +56,7 @@ helix.
 Q: What is the $\beta$ conformation in polypeptide chains?
 A: A conformation that organizes polypeptide chains into sheets.
 
-A $\beta$ strand is formed by extending the backpone into a zigzag. Several strands side-by-side form a $\beta$ sheet.
+A $\beta$ strand is formed by extending the backbone into a zigzag. Several strands side-by-side form a $\beta$ sheet.
 
 Q: How does protein folding minimize free energy?
+A: Proteins fold spontaneously to achieve the lowest free energy state (most stable conformation). The driving force is ΔG < 0 (negative free energy change).
