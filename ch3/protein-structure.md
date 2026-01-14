@@ -60,3 +60,9 @@ A $\beta$ strand is formed by extending the backbone into a zigzag. Several stra
 
 Q: How does protein folding minimize free energy?
 A: Proteins fold spontaneously to achieve the lowest free energy state (most stable conformation). The driving force is ΔG < 0 (negative free energy change).
+
+C: Adjacent segments of [antiparallel] $\beta$ sheets are connected via [$\beta$ turns] 
+
+Q: What are common amino acids in $\beta$ turns?
+A: Proline (Type I) and Glycine (Type II)
+
