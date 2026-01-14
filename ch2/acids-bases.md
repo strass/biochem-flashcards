@@ -1,4 +1,4 @@
-C: [The Henderson-Hasselbalch Equation] is [$pH = pK_a + log({[A⁻] \over [HA]})$]
+C: [The Henderson-Hasselbalch Equation] is [$pH = pK_a + log({\[A⁻\] \over \[HA\]})$]
 
 ---
 
