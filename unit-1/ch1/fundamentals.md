@@ -44,3 +44,7 @@ Q: What is standard free energy change?
 A: $$\Delta G = \Delta G^\circ + RT ln \frac{[C]^c_{i} [D]^d_{i}}{[A]^a_{i} [B]^b_{i}}$$
 
 C: Reactions can do [no work] at [equilibrium]
+
+Q: What are the various macromolecules and what do they build in the cell?
+A: The four classes of macromolecules are polysaccharides, nucleic acids, proteins, and lipids. Polysaccharides, such as starch and glycogen, primarily store energy and provide structural support. Nucleic acids, including DNA and RNA, store and transmit genetic information, while ATP (a nucleotide) stores energy. Proteins, composed of amino acids linked by peptide bonds, perform a wide range of cellular activities, including catalysis, transport, and structural support. Lipids, such as phospholipids and triglycerides, form cellular barriers like the plasma membrane and store energy.
+

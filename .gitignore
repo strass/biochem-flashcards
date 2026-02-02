@@ -1,0 +1,4 @@
+.nix-shell
+.venv
+hashcards.db
+shell.nix
