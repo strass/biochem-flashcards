@@ -28,16 +28,16 @@ A:
 - Translocases      - Movement of molecules or ions across membranes or their separation within membranes.
 
 Q: What is the enzyme-substrate complex?
-A: \ce{
+A: $$\ce{
 $\underset{\text{Free Enzyme \& Substrates}}{E + S}$ <=> 
 $\underset{\text{Substrate Binding}}{ES}$ <=> 
 $\underset{\text{Reaction}}{ES{*}}$ <=> 
 $\underset{\text{Product Formation}}{EP}$ <=> 
 $\underset{\text{Release of Products}}{E + P}$
-}
+}$$
 
 - Enzymes lower activation energy of a reaction
-- An enzyme that catalyzes \ce{S -> P} also catalyzes \ce{P -> S}.
+- An enzyme that catalyzes $\ce{S -> P}$ also catalyzes $\ce{P -> S}$.
 - Enzymes accelerate the interconversion of S and P.
 - Enzymes are not used up in the process.
 - The equilibrium point is unaffected.
